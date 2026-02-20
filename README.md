@@ -1,6 +1,6 @@
 # Password Generator
 
-A simple web-based password generator that creates strong and random passwords based on user-selected criteria.
+A simple web-based password generator that creates strong and random passwords.
 
 ## Technologies Used
 - HTML
